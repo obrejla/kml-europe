@@ -1055,7 +1055,7 @@
             </MultiGeometry>
             <Style>
                 <PolyStyle>
-                    <color>#6500ff00</color>
+                    <color>#3300ff00</color>
                     <outline>0</outline>
                 </PolyStyle>
             </Style>
